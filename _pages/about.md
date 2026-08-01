@@ -27,6 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Woosang Park is an Astrodynamicist working on four representative research problems in Space Domain Awarenness:
+(1) Orbit Determination,
+(2) Track Association,
+(3) Anomaly Detection,
+(4) Maneuver Characterization. In particular, his research addresses dynamic model fidelity and dynamic nonlinearity issues on these topics.
+
 {% comment %}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
