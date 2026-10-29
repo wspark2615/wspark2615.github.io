@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robust Crater Triangle Matching Algorithm
-description: with background image
+description: enabling reliable planetary landing navigation under noise, oblique view, and false detections
 img: assets/img/12.jpg
 importance: 1
 category: work
